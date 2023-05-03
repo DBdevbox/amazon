@@ -1,0 +1,50 @@
+nav {
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    border-bottom: 1px solid #c3c3c3;
+    padding: 10px 20px;
+}
+
+.logo {
+    height: 100%;    
+}
+.logo img {
+    height: 100%;
+}
+
+.searchbar {
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    border: 1px solid #c3c3c3;
+    overflow: hidden;
+    height: 40px;
+}
+
+.icons {
+    display: flex;
+    align-items: center;
+}
+.icon {
+   margin-left: 20px;
+}
+
+.dropDown {
+  display: flex ;
+  align-items: center;
+  border-left: 1px solid #c3c3c3;
+  border-right: 1px solid #c3c3c3;
+  height:100%;
+}
+.searchIcon {
+background-color: #FF9801;
+display: flex;
+align-items:center;
+justify-content: center;
+padding: 20px;
+}
+.profile{
+
+}
